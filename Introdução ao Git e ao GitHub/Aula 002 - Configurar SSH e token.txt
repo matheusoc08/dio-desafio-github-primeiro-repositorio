@@ -1,0 +1,47 @@
+---Chave SSH---
+Para uso do GitHub se tornou necessário gerar uma chave SSH  para subir os arquivos usando o git
+
+Deve-se abrir o git bash e executar os comandos
+ssh-keygen -t ed25519 -C "email github"
+
+Com isso, ele gerará as chaves publicas e privadas e onde ficaram armazenadas. Inicialmente pode deixar salvo onde foi recomendado
+
+Após isso pedirá a criação de uma senha.
+
+
+Para acessar essa pasta, ainda no git bash deve inserir os comandos:
+
+cd /c/users/mathe/.ssh
+
+ls (funciona como o dir. Lá veremos as chaves criadas)
+
+cat (para visualizar o conteudo das chaves)
+cat id_ed25519.pub (Essa será a chave para registrar no git hub)
+
+No Github, em title apenas uma identificação da chave e em key a chave publica gerada.
+
+Voltando ao git bash:
+ls (ver os arquivos)
+
+pwd (ver o caminho completo do diretorio)
+
+eval $(ssh-agent -s) (Vai iniciar o processo. O valor do pid varia)
+
+ssh-add "caminho da pasta ou informar a chave privada diretamente, quando já estiver dentro da pasta"
+Informar a senha criada para a chave. Ele então adicionará a identidade à nossa conta
+
+------------
+
+---Token de acesso pessoal---
+É uma outra forma de acesso seguro, mas é parecido com o processo de inserir o email e senha a cada commit e com seu token
+
+No GitHub deve ir em "Developer settings" > "Personal access tokens"
+É possível configurar um período para expiração do token.
+Marcar a caixa "repo", inserir um nome em note e clicar em Generate token.
+
+Esse token só aparecerá uma vez. Assim que for gerado, deve-se salvar em algum local seguro.
+
+----
+Para clocar um repositorio com o Token, deve ser usado o link https. Quando inserido no git bash, pedirá a autenticação gerada.
+
+Com o SSH configurado, é necessário copiar o caminho ssh, inserir git clone com o caminho ssh.

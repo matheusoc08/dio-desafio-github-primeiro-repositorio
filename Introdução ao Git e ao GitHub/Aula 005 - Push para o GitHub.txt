@@ -1,0 +1,31 @@
+git config --global --unset user.emal
+Para remover a configuração do email
+
+Para apontar o repositorio local para o repositorio remoto, temos que adicionar a origem dos arquivos
+
+git remote add origin https://github.com/matheusoc08/teste
+origin é apenas o apelido para o link do repositorio. Por convenção foi definido como origin
+
+git remote -v
+Mostra a lista de repositorios remotos cadastrados
+
+Para passar levar o repositorio local para o repositorio remoto é usado o comando abaixo
+git push origin master
+
+Caso um mesmo arquivo que está no GitHub esteja sendo trabalhado por duas pessoas ao mesmo tempo,
+quando a segunda pessoa for fazer um push, o git notificará que a versão atual no GitHub está diferente
+de quando foi baixada anteriormente. Sendo assim é necessário validar as diferenças(conflitos").
+
+Nesse caso é necessário fazer um pull que é para trazer as mudanças atuais do arquivo no GitHub para o 
+código que estamos tentando subir.
+git pull origin master
+
+Porém, caso as mudanças sejam na mesma linha que a segunda pessoa está trabalhando
+dará um conflito de merge. Nesse caso é necessário acessar o arquivo que está no GitHub, validar as diferenças
+manualmente e adaptá-lo com as mudanças da segunda pessoa. Feito os ajustes, é necessário fazer o commit do 
+arquivo corrigido.
+
+Comandos:
+git add *
+git commit -m "Resolve conflitos"
+git push origin master

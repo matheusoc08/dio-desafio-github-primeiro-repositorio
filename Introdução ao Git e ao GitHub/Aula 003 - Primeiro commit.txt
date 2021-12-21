@@ -1,0 +1,25 @@
+git ini
+INiciar repositorio do git
+
+git add
+Mover arquivos e iniciar o versionamento
+
+git commit
+
+
+ls -a
+A flag a permite ver pastas ocultas no terminal
+
+Na primeira vez de uso, o git pede algumas configurações como o username e email
+
+git config --global user.email "matheuso.c08@gmail.com"
+git config --global user.name Matheusoc
+
+git commit -m ""
+Para commitar inserindo uma mensagem
+
+Fluxo para subir o versionamento de um arquivo criado/editado
+
+git add *
+git commit -m "Commit inicial"
+

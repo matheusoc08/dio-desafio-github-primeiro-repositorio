@@ -1,0 +1,14 @@
+Comandos básicos para uso do terminal Windows - CMD
+CD - Change Directory
+CD / - Ir para o diretorio raiz
+CD .. - Vai para o diretorio "acima/anterior"
+CLS - Limpar tela
+Tecla tab - Autocomplete
+
+mkdir "nome" - Criar pasta (mkdir workspace)
+
+echo "texto" - Printar uma mensagem no terminal (echo hello)
+echo hello > hello.txt - Criar um arquivo hello.txt com o conteudo hello
+
+del - Deletar arquivo ou conteudo dentro de um diretorio (del workspace)
+rmdir - Deletar diretorio (rmdir workspace /S /Q (/S /Q são flags para simplificar a exclusão))

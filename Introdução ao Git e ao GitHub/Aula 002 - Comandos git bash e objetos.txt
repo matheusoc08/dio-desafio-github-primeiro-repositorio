@@ -1,0 +1,36 @@
+openssl sha1 texto.txt - Gerar o hash do conteudo de um arquivo
+
+Objtos git
+Blob
+Tree
+Commit
+
+--Blobs--
+O Blob é um objeto em que os arquivos são armazenados para o git operar.
+O sha1 gerado é diferente de usar openssl diretamente, pois o blob possui metadados (tipo, no caso blob, tamanho da string ou arquivo, instrução: \0, conteudo do arquivo) do git que alteram o valor do sha1
+
+Ex.:
+echo 'conteudo' | git hash-object --stdin
+sha1: fc31e91b26cf85a55e072476de7f263c89260eb1
+(hash-object é um comando que realiza a leitura de um arquivo)
+(a flag --stdin é para o comando hash-object aceite receber o comando echo)
+
+echo 'conteudo' | openssl sha1
+sha1: 65b0d0dda479cc03cce59528e28961e498155f5c
+
+Passando os metadados na instrução openssl, será gerado o mesmo sha1 do comando git
+
+echo -e 'blob 9\0conteudo' | openssl sha1
+sha1: fc31e91b26cf85a55e072476de7f263c89260eb1
+
+--Tree--
+As Trees armazenam (apontam para) blobs, ela tambem possui um tamanho, \0, mas adicionalmente, possui tambem o blob, o sha1 dos metadados e o nome do arquivo.
+Logo se o sha1 do blob for alterado, toda a estrutura da arvore mudará. As Trees tambem podem apontar para outras Trees que apontam pra outros blobs ou Trees
+
+--Commit--
+Commit é o que une tudo. Apontam para Trees, parente (commit pai ou anterior a ele), autor do commit e tambem para uma mensagem para explicação do commit. Tambem possui um timestamp com data e hora de sua criaçao.
+Commits tambem geram um sha1. Ou seja, se um blob for alterado, seu sha1 será alterado, que alterará a estrutura da arvore e levando a um novo commit com um novo sha1 do commit.
+
+Com as timestamps isso gerá um histórico de todas as modificações
+
+

@@ -1,0 +1,81 @@
+Ciclo de vida
+
+Há arquivos tracked e untracked
+
+Tracked dividisse em 3 etapas: unmodified, modified e staged
+Ainda não foi modificado
+Foi modificado
+São arquivos que estão em preparação para subir (ser commitado)
+
+Untracked são arquivos que o git ainda não tem ciencia
+
+No processo da aula passad, quando foi criado o arquivo strogonoff.html, ele iniciou como
+untracked, pois o ele acabou de ser criado no repositório, o git ainda não sabia sobre.
+Quando executamos o git add, moveu o arquivo direto para staged.
+
+O git diferencia um arquivo unmodified de modified comparando sha1 do arquivo antes e 
+depois dele ser salvo novamente.
+
+Se rodar o git add novamente para o arquivo modified, ele muda para staged.
+
+Se o arquivo unmodified for removido, ele mudará para untracked, pois o git ainda não foi notificado.
+
+O comando commit afetará todos os arquivos em staged. A partir daí, esses arquivos commitado vão para unmodified.
+
+---
+
+Sobre o git init que inicia um repositorio
+
+Há dois ambientes: Desenvolvimento e Servidor
+
+Desenvolvimento é o local que representa tudo que está na máquina e é divido em 3 partes. As alterações realizada aqui não afetam diretamente o que está no ar.
+Working directory
+Staging area
+Local repository
+
+Os arquivos vão sempre alterar entre working directory e staging area, conforme arquivos forem adicionados e modificados.
+Quando um commit é realizado, os arquivos são movidos para o local repository. Esse repositorio local pode ser então movido para um repositorio remoto.
+
+Servidor pode ser o Github.
+
+---------------
+
+--Outros comandos--
+
+git status
+Mostra a situação do arquivo ou se commits pendentes
+
+
+mv strogonoff_de_frango.html ./receitas
+mv é para mover um arquivo para outro diretorio
+
+Feito isso, se der um git status ele trará novas informações. Como dizer que o arquivo strogonoff foi removido da pasta.
+Também não identifica a pasta receitas criadas, deixando como untracked
+
+Executando o comando git add strogonoff_de_frango.html receitas/
+Ele vai alterar para staged o arquivo strogonoff e a pasta criada
+
+Se executar o comando git restore --staged "arquivo.tipo" ele retornará para unstaged.
+
+Executando o comando git commit -m "Cria pasta receita, move arquivo para receita"
+Mostrará o status do commit com algumas informações
+
+
+Agora vamos criar o arquivo README.md
+echo > README.md
+
+Modificado o arquivo, foi usado o git add *
+O * pega tudo que foi modificado, tudo que está na working directory e adiciona para staged
+
+E por fim, commitar para subir as modificações
+git commit -m "Adiciona index"
+
+
+
+
+
+
+
+
+
+
