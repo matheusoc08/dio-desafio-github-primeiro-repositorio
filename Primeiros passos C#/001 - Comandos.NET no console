@@ -1,0 +1,45 @@
+Comandos.NET no console
+
+dotnet new console
+Para desenvolver uma nova aplicação do tipo console
+
+dotnet new console -h
+Com o -h ele retorna a lista de comandos e parametros para o comando anterior
+
+dotnet new console -n DigitalInovationOne
+Criar a aplicação console DigitalInovationOne. Vai tambem criar uma pasta com a estrutura do projeto dentro (pasta obj, DigitalInovationOne.proj e Program.cs).
+
+Ainda no CMD se digitar "explorer .", vai abrir a pasta atual.
+
+O comando "code ." fará ele abrir a pasta dentro do Visual Studio Code. o Visual Studio Code vai sugerir instalar alguins assets para melhoria codificação e vai criar a pasta bin com os binários da aplicação
+
+Voltando ao CMD alguns comandos uteis para executar tambem nesse inicio
+
+dotnet restore
+Que realiza a restauração de pacotes quando houver, como de banco de dados, nuggets, etc
+
+dotnet build
+Tambem vai restaurar os pacotes, mas tambem vai fazer a compilação
+
+dotnet run
+Vai fazer instalação dos pacotes e executar o codigo
+
+-----
+
+No codigo, terá alterações para exemplificação
+
+int numeroDeVezes = 5;
+
+for(int i=0; i < numeroDeVezes; i++){
+	Console.WriteLine($"Bem vindo ao curso de .NET (i)");
+}
+
+-----
+
+
+
+
+
+
+
+
