@@ -1,0 +1,17 @@
+Download .NET:
+https://dotnet.microsoft.com/download/
+
+Documentação do .NET:
+https://docs.microsoft.com/pt-br/dotnet/
+
+.NET Foundation:
+https://dotnetfoundation.org/
+
+Microsoft Azure
+https://azure.microsoft.com/pt-br/
+
+Xamarin:
+https://dotnet.microsoft.com/apps/xamarin/
+
+GitHub - Professor Gabriel Faraday:
+https://github.com/gabrielfaraday/csharp-examples
