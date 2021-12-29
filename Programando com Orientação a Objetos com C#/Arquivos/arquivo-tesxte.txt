@@ -1,0 +1,1 @@
+Ola! Teste de escrita de arquivo!
