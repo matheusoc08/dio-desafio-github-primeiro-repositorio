@@ -1,0 +1,15 @@
+
+dotnet new sln --name ExemploPOO
+Criar uma solution via command line
+
+mkdir ExemploPOO
+Criar a pasta do projeto
+
+dotnet new console
+Dentro da pasta, criar o projeto console
+
+dotnet sln add ExemploPOO/ExemploPOO.csproj
+Retornar à pagina anterior e utilizar o comando para adicionar o arquivo de projeto na solution
+
+
+
