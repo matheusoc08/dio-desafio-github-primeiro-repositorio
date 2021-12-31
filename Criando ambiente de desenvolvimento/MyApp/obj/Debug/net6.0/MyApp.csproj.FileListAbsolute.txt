@@ -1,0 +1,15 @@
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\New folder\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache

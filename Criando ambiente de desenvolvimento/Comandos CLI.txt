@@ -1,0 +1,26 @@
+dotnet --version
+versão do .net
+
+dotnet --info
+Informações do .net instalado
+
+dotnet new
+Retornar uma lista dos possível projetos criáveis
+
+dotnet new --list --tag web
+Filtrar a lista de projetos criáveis que sejam web
+
+dotnet new --help
+Lista de outros comandos que podem ser utilizados com new
+
+dotnet new console -o MyApp
+Cria uma pasta com o projeto tipo console
+
+dotnet run
+Dentro de uma pasta com um projeto .NET, executará o programa
+
+dotnet build
+Dentro de uma pasta com um projeto .NET, ele compilará o projeto
+
+dotnet restore
+Resgatar dependencias necessárias para o projeto funcionar
