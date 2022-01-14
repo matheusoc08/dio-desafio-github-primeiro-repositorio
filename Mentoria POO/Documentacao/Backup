@@ -1,0 +1,12 @@
+//nome, hp, mp e classe
+            string nome = "Arus";
+            int hp = 100;
+            int mp = 5;
+            string classeFantastica = "Guerreiro";
+
+            string nome2 = "Wedge";
+            int hp2 = 60;
+            int mp2 = 100;
+            string classeFantastica2 = "Mago negro";
+
+            Console.WriteLine($"O nome do meu heroi é {nome}");

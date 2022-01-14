@@ -9,7 +9,7 @@ namespace Dio
         static void Main(string[] args)
         {
 
-            /*
+            
             int quantidadeEsferas = Convert.ToInt32(Console.ReadLine());
             int divisorPar = 0;
 
@@ -33,18 +33,18 @@ namespace Dio
                 quantidadeEsferas--;
             }
             System.Console.WriteLine(divisorPar);
-            */
+            
 
 
             // Resposta DIO
-            int C = Convert.ToInt32(Console.ReadLine());
-            while (C-- > 0)
-            {
-                int val = Convert.ToInt32(Console.ReadLine());
-                int newval = (int)Math.Sqrt(val);        //complete com a sua lógica
-                int resposta = val - newval;
-                Console.WriteLine(resposta);
-            }
+            // int C = Convert.ToInt32(Console.ReadLine());
+            // while (C-- > 0)
+            // {
+            //     int val = Convert.ToInt32(Console.ReadLine());
+            //     int newval = (int)Math.Sqrt(val);        //complete com a sua lógica
+            //     int resposta = val - newval;
+            //     Console.WriteLine(resposta);
+            // }
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\bin\Debug\net6.0\Mentoria POO.exe
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\bin\Debug\net6.0\Mentoria POO.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\bin\Debug\net6.0\Mentoria POO.runtimeconfig.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\bin\Debug\net6.0\Mentoria POO.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\bin\Debug\net6.0\ref\Mentoria POO.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\bin\Debug\net6.0\Mentoria POO.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\Mentoria POO.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\Mentoria POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\Mentoria POO.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\Mentoria POO.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\Mentoria POO.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\Mentoria POO.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\ref\Mentoria POO.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\Mentoria POO.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Mentoria POO\obj\Debug\net6.0\Mentoria POO.genruntimeconfig.cache
