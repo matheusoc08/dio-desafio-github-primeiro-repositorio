@@ -85,6 +85,11 @@ namespace DIO.Series
             Serie novaSerie = new Serie(id: repositorio.ProximoId(), genero: (Genero)entradaGenero, titulo: entradaTitulo, descricao: entradaDescricao, ano: entradaAno);
 
             repositorio.Insere(novaSerie);
+
+            //DaoBase.InserirDB(repositorio.ProximoId(), entradaGenero, entradaTitulo, entradaDescricao, entradaAno);
+
+            
+
         }
 
         private static void AtualizarSerie()

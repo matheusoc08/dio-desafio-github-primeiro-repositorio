@@ -13,3 +13,10 @@ C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\
 C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
 C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
 C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CopyComplete
