@@ -1,0 +1,28 @@
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Serie (Aula)\DIO.Series\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\013 - Criando uma API REST simples com .NET Core\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
