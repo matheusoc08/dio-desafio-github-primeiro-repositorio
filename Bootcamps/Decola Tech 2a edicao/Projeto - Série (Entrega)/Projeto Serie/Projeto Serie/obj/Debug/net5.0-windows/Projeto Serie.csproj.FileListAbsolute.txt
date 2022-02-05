@@ -1,0 +1,54 @@
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.exe
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.deps.json
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.runtimeconfig.json
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\ref\Projeto Serie.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.pdb
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\ref\Projeto Serie.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.pdb
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.genruntimeconfig.cache
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto_Serie.Forms.frmControleSerie.resources
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto_Serie.Forms.frmHome.resources
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto_Serie.Forms.frmListarSerie.resources
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mathe\source\repos\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.csproj.CopyComplete
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.exe
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.runtimeconfig.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.runtimeconfig.dev.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\ref\Projeto Serie.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\Projeto Serie.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto_Serie.Forms.frmControleSerie.resources
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto_Serie.Forms.frmHome.resources
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto_Serie.Forms.frmListarSerie.resources
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.csproj.GenerateResource.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.csproj.CopyComplete
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\ref\Projeto Serie.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto - Série (Entrega)\Projeto Serie\Projeto Serie\obj\Debug\net5.0-windows\Projeto Serie.genruntimeconfig.cache
