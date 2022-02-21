@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.menus {
+  background-color: #23252b;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+}
+
+.profile_pic {
+  border-radius: 100px;
+  width: 50px;
+}
+
+.logo {
+  height: 25px;
+  margin-left: 30px;
+}
+
+.left_menu {
+  margin-left: -650px;
+}
+
+.left_menu a {
+  text-decoration: none;
+  color: white;
+  font-family: Arial;
+  padding: 10px;
+}
+
+.right_menu{
+    justify-content: ;
+}
