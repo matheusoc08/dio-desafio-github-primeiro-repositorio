@@ -1,0 +1,34 @@
+DESCRICAO - PROJETO SPA
+
+Regras
+1) Criar uma aplicação Angular
+2) Criar no mínimo 3 components que deverão estar interagindo na mesma página
+3) Escolher no mínimo 4 componentes do Angular Material e incorporá-los na aplicação
+4) Criar em uma das páginas uma interação através da interpolação e/ou utilizando Property Binding
+5) Criar e disponibilizar uma explicação sobre o que foi feito
+6) Opcional - Criar um vídeo demonstrando a aplicação e publica-lo no Youtube.
+
+Tema
+Exibição de animes da temporada 2022
+
+Descricao
+A proposta é exibir os animes da temporada de verão de 2022 e o dia da seman que são exibidos.
+
+Requisitos funcionais
+001 - O usuário poderá seleceionar o dia da semana desejado
+002 - O usuário poderá ler detalhes de um anime selecionado
+003 - O usuário poderá informar o status do anime (assistido/assistindo/pretende assistir)
+004 - O usuário poderá marcar o episódio assistido
+005 - O usuário poderá editar o status do anime
+006 - O usuário poderá editar o status do episódio
+
+Requisitos não funcionais
+001 - Os animes não terão UI para edição das suas informações
+002 - Cada anime deverá conter id, url da imagem, nome, descrição, genero, ano de lançamento e o status em que se encontra
+003 - Cada anime poderá ter uma única imagem de exibição
+
+
+
+
+
+

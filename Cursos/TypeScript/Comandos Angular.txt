@@ -1,0 +1,33 @@
+Iniciar servidor
+ng serve -o
+
+Instalar o angular globalmente, caso não tenha
+npm install -g @angular/cli
+
+Criar um novo projeto incluindo um prefixo opcional aos novos componentes criados
+ng new nome_projeto --prefix=spa
+
+Instalar biblioteca do angular
+ng add @angular/material
+
+Criar um novo componente
+ng g c nome_componente
+
+
+Instalação do bootstrap para estilização da página
+npm install bootstrap
+
+No arquivo .css realizar a importação abaixo para utilizar as estilizações do bootstrap
+@import '~/bootstrap/dist/css/bootstrap.min.css
+
+Cria um build da aplicação, convertendo todo app Angular TS para JS
+ng build
+
+Cria uma diretiva
+ng g d nome_diretiva
+
+Cria uma diretiva dentro de uma pasta
+ng g d pasta/nome_diretiva
+
+Cria um serviço
+ng g service nome_servico

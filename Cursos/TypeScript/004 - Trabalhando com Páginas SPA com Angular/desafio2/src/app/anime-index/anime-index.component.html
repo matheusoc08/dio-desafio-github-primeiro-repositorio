@@ -1,0 +1,29 @@
+
+<a [routerLink]="['/config']">
+    <button id="insert-anime" mat-raised-button color="primary">+</button>
+</a>
+<table class="table table-stripped">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Year</th>
+            <th>Gender</th>
+            <th>Status</th>
+            <th>Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let anime of animeList">
+            <td><img [src]="anime.coverImg" width="80px" height="120px"></td>
+            <td>{{ anime.name }}</td>
+            <td>{{ anime.releaseYear }}</td>
+            <td>{{ anime.gender }}</td>
+            <td>{{ anime.animeStatus }}</td>
+            <td>
+                <a hreaf="#"><button class="btn btn-primary">Edit</button></a>
+                <a href='#'><button class="btn btn-danger">Delete</button></a>
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,35 @@
+DESCRICAO - PROJETO SPA
+
+Regras
+1) Criar uma aplicação Angular
+2) Criar no mínimo 3 components que deverão estar interagindo na mesma página
+3) Escolher no mínimo 4 componentes do Angular Material e incorporá-los na aplicação
+4) Criar em uma das páginas uma interação através da interpolação e/ou utilizando Property Binding
+5) Criar e disponibilizar uma explicação sobre o que foi feito
+6) Opcional - Criar um vídeo demonstrando a aplicação e publica-lo no Youtube.
+
+Tema
+Organizacao de animes assistidos
+
+Descricao
+A proposta é possibilitar um local para registro de animes que foram ou que estão sendo assistidos.
+
+Requisitos funcionais
+001 - O usuário poderá incluir um anime por vez
+002 - O usuário poderá informar detalhes do anime assistido
+003 - O usuário deverá informar o status do anime (assistido/assistindo/pretende assistir)
+004 - O usuário deverá informar a data de cnclusão do anime quando concluído
+005 - O usuário poderá editar informações de um anime inserido
+006 - O usuário poderá excluir um anime inserido
+
+Requisitos não funcionais
+001 - Não há limites de animes para serem inseridos
+002 - Os campos habilitados para preenchimento não poderão estar vazios
+003 - Cada anime deverá conter nome, descrição, genero, ano de lançamento, data em que o usuário o concluiu e o status em que se encontra
+004 - Cada anime poderá ter uma imagem de exibição
+
+
+
+
+
+

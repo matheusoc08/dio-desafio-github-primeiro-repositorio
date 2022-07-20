@@ -1,0 +1,15 @@
+<section>
+    <div>
+      <button mat-raised-button value="monday" class="btn">Monday</button>
+      <button mat-raised-button value="tuesday" class="btn">Tuesday</button>
+      <button mat-raised-button value="wednesday" class="btn">Wednesday</button>
+      <button mat-raised-button value="thursday" class="btn">Thursday</button>
+      <button mat-raised-button value="friday" class="btn">Friday</button>
+      <button mat-raised-button value="saturday" class="btn">Saturday</button>
+      <button mat-raised-button value="sunday" class="btn">Sunday</button>
+    </div>
+</section>
+
+<div class="anime-container wrap">
+    <div class="anime-item" *ngFor="let anime of animeList"><img [src]="anime.coverImg" class="img-item"></div>
+</div>

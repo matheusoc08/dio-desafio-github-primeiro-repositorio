@@ -1,0 +1,84 @@
+
+
+<h1 class="text-success text-center">Live angular diretivas</h1>
+
+<div
+  [ngStyle]="{ background: count < 5 ? 'red' : 'green' }"
+  [ngClass]="{custom: count > 5}"
+>
+  <h2 class="text-center">Contador: {{ count }}</h2>
+</div>
+
+<!-- Diretivas Estruturais -->
+<h2 *ngIf="count > 7; else menor" class="text-center">O contador passou de 7!</h2>
+
+<ng-template #menor>
+  <h2 class="text-center">O contador é menor que 7!</h2>
+</ng-template>
+<br>
+<h3 class="text-center" appMarcaTexto corDeFundo="lightgreen" corDoTexto="black">NG Switch</h3>
+<ul [ngSwitch]="count" class="list-group mx-auto col-3">
+  <li
+    class="list-group-item"
+    *ngSwitchCase=3
+  >É IGUAL A 3</li>
+  <li
+    class="list-group-item"
+    *ngSwitchCase="5"
+  >É IGUAL A 5</li>
+  <li
+    class="list-group-item"
+    *ngSwitchCase="8"
+  >É IGUAL A 8</li>
+  <li
+    class="list-group-item"
+    *ngSwitchDefault
+  >ESSE É O DEFAULT</li>  
+</ul>
+
+<app-list-people></app-list-people>
+
+<!-- <br>
+<h3 class="text-center" appMarcaTexto>NG For</h3>
+<ul class="list-group mx-auto my-3 col-3">
+  <li 
+    class="list-group-item"
+    *ngFor="let pessoa of pessoas"  
+  >
+   O nome da pessoa é {{ pessoa.firstName }} {{ pessoa.lastName }} e ela tem {{ pessoa.age }} anos de idade.
+  </li>  
+</ul> -->
+
+<!-- <br>
+<h3 class="text-center">NG For</h3>
+<ul class="list-group mx-auto my-3 col-3">
+  <ng-template ngFor Let-pessoa [ngForOf]="pessoas">
+    <li class="list-group-item">
+      O nome da pessoa é {{ pessoa.firstName }}.
+    </li>
+  </ng-template>
+</ul> -->
+
+<div class="col-md-4 mx-auto">
+
+<br>
+<h3 appMarcaTexto corDeFundo="blue" corDoTexto="black">{{ nome }}</h3>
+<button class="btn btn-success" (click)="clicou('Ivonaldo')">Clique</button>
+
+
+  <input
+    type="text" class="form-control"
+    placeholder="Digite alguma coisa"
+    [(ngModel)]="text"
+  >
+  <h4>Saida: {{ text }} </h4>
+</div>
+
+<div class="container my-5">
+  <div class="row d-flex align-items-center justify-content-center">
+    <h2>Listagem de personagens Rick And Morty</h2>
+    <div class="col-12">
+      <app-list-api></app-list-api>
+    </div>
+  </div>
+</div>
