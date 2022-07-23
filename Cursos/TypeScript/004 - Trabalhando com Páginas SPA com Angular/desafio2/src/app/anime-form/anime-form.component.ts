@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs';
+import { AnimeModel } from '../model/anime.model';
 
 @Component({
   selector: 'app-anime-form',
@@ -7,9 +9,17 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AnimeFormComponent implements OnInit {
 
+  anime: AnimeModel = {
+
+  };
+
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  saveAnime(): Observable<AnimeModel>{
+    return 
   }
 
 }

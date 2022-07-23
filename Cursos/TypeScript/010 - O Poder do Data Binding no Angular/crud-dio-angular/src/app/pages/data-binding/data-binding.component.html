@@ -1,0 +1,30 @@
+<h1 [class.text-red]="textRed">O nome é {{ text }}</h1>
+<h1 [class]="textCor">Valor: {{ 1 + 2 }}</h1>
+<h1 [style.fontSize]="fontSize">A funcao retorna: {{ retornaNome() }}</h1>
+
+<img src="{{ imageUrl }}">
+<img [src]="imageUrl" [alt]="imageDescription" (click)="clicou()" [style.width.px]="widthImg">
+
+
+<br>
+<button (click)="clicou()">Clique aqui</button>
+
+<input #input (keyup)="apertou(input.value)">
+{{ input.value }}
+
+<button [attr.aria-label]="buttonText" [style.backgroundColor]="bgColor">{{ buttonText }}</button>
+
+<br>
+<input type="text" class="form-control" [(ngModel)]="textInput" [style.width.px]="300">
+<p class="text-default">{{ textInput }}</p>
+
+
+<app-button [btnText]="'Cancelar'" [btnType]="'btn-danger'"></app-button>
+<app-button [btnText]="'Salvar'" [btnType]="'btn-success'"></app-button>
+<app-button [btnText]="'Clique Aqui'" [btnType]="'btn-primary'"></app-button>
+<app-button [btnText]="'Teste'" btnType="btn-default" (clickChildren)="clicouNoFilho($event)"></app-button>
+
+<app-life-cycle [number]="number" *ngIf="!destroy"></app-life-cycle>
+<app-button [btnText]="'Incrementa'" [btnType]="'btn-outline-danger'" (click)="incrementa()"></app-button>
+<app-button [btnText]="'Destrua!!!'" [btnType]="'btn-outline-danger'" (click)="destroiComponent()"></app-button>
+
