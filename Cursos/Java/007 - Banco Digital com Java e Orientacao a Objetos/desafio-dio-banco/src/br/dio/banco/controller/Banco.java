@@ -1,3 +1,5 @@
+package br.dio.banco.controller;
+
 public class Banco {
 
     public String nome;

@@ -1,6 +1,8 @@
+package br.dio.banco.controller;
+
 public interface IConta {
 
-    public void sacar(double valor);
+    boolean sacar(double valor);
 
     void depositar(double valor);
 
