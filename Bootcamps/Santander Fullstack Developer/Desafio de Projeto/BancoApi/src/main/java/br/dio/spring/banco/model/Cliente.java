@@ -2,12 +2,10 @@ package br.dio.spring.banco.model;
 
 import org.springframework.stereotype.Component;
 
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.ManyToOne;
+import javax.persistence.*;
 
 @Component
+@Entity
 public class Cliente {
 
     @Id
