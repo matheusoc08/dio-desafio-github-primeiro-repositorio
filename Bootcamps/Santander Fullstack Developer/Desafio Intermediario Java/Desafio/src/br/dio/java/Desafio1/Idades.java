@@ -3,7 +3,7 @@ package br.dio.java.Desafio1;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Desafio1 {
+public class Idades {
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
         int cont = 0;
