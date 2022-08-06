@@ -2,7 +2,9 @@ package br.dio.spring.banco.service;
 
 import br.dio.spring.banco.model.Cliente;
 import br.dio.spring.banco.repository.ClienteRepository;
+import feign.Response;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -17,19 +19,12 @@ public class ClienteService {
         return clienteRepository.findAll();
     }
 
-    public Cliente clienteFindById(Long id){
-        Optional<Cliente> cliente = clienteRepository.findById(id);
-        return cliente.get();
+    public Optional<Cliente> clienteFindById(Long id){
+        return clienteRepository.findById(id);
     }
 
     public void clienteSave(Cliente cliente){
         clienteRepository.save(cliente);
-    }
-
-    public void clienteUpdate(Long id, Cliente cliente){
-        Optional<Cliente> buscaCliente = clienteRepository.findById(id);
-        if(buscaCliente.isPresent())
-            clienteRepository.save((cliente));
     }
 
     public void clienteDeactivate(Long id){

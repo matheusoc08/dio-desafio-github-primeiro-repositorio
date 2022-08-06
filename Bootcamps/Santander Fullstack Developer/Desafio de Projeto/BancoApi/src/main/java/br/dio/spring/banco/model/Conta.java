@@ -9,7 +9,7 @@ import javax.persistence.*;
 public class Conta {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long numero;
     private int agencia;
     private double saldo;

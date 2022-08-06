@@ -18,23 +18,12 @@ public class ContaService {
         return contaRepository.findAll();
     }
 
-    public Conta contaFindById(Long id){
-        Optional<Conta> conta = contaRepository.findById(id);
-        return conta.get();
+    public Optional<Conta> contaFindById(Long numero){
+        return contaRepository.findById(numero);
     }
 
     public void contaSave(Conta conta){
         contaRepository.save(conta);
-    }
-
-    public void contaUpdate(Long id, Conta conta){
-        Optional<Conta> buscaConta = contaRepository.findById(id);
-        if(buscaConta.isPresent())
-            contaRepository.save(conta);
-    }
-
-    public void contaDeactivate(Long id){
-        contaRepository.deleteById(id);
     }
 
 }
