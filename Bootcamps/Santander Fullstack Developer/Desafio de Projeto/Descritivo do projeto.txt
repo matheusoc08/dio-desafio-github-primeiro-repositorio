@@ -11,16 +11,17 @@ Funcionalidades:
 - Busca de conta por id
 - Dados salvos em memória
 - Interação atraves do console da IDE
+- Metodos sacar, depositar, transferir
 
 Projeto reformulado
 Funcinalidades:
-- Métodos de cadastro através de API - POST
-- Métodos de busca através de API - GET
+- Métodos de cadastro através de REST API - POST (OK)
+- Métodos de busca através de REST API - GET (OK)
 - Método de safe delete para cliente e conta (desativação) - PUT
-- Método de edição de cliente - PUT
+- Método de edição de cliente - PUT (OK)
 - Adição de cadastro de endereço
 - Busca de endereço através da API da ViaCep
-- Interação dos métodos da API através do Swagger
-- Dados salvos em banco de dados MySQL
+- Interação dos métodos da API através do Swagger (OK)
+- Dados salvos em banco de dados MySQL (OK)
 
 
