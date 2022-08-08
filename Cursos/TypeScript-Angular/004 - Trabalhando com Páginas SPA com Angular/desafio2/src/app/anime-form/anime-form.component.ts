@@ -9,9 +9,7 @@ import { AnimeModel } from '../model/anime.model';
 })
 export class AnimeFormComponent implements OnInit {
 
-  anime: AnimeModel = {
-
-  };
+  animeList?: Array<AnimeModel>;
 
   constructor() { }
 
@@ -19,7 +17,7 @@ export class AnimeFormComponent implements OnInit {
   }
 
   saveAnime(): Observable<AnimeModel>{
-    return 
+    this.animeList?.push
   }
 
 }
