@@ -1,0 +1,15 @@
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\bin\Debug\net6.0\Desafio básico C#.exe
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\bin\Debug\net6.0\Desafio básico C#.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\bin\Debug\net6.0\Desafio básico C#.runtimeconfig.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\bin\Debug\net6.0\Desafio básico C#.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\bin\Debug\net6.0\ref\Desafio básico C#.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\bin\Debug\net6.0\Desafio básico C#.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\Desafio básico C#.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\Desafio básico C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\Desafio básico C#.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\Desafio básico C#.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\Desafio básico C#.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\Desafio básico C#.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\ref\Desafio básico C#.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\Desafio básico C#.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio básico C#\obj\Debug\net6.0\Desafio básico C#.genruntimeconfig.cache
