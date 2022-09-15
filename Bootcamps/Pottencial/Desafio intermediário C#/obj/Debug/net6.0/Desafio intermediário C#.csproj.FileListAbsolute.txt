@@ -1,0 +1,15 @@
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\bin\Debug\net6.0\Desafio intermediário C#.exe
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\bin\Debug\net6.0\Desafio intermediário C#.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\bin\Debug\net6.0\Desafio intermediário C#.runtimeconfig.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\bin\Debug\net6.0\Desafio intermediário C#.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\bin\Debug\net6.0\ref\Desafio intermediário C#.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\bin\Debug\net6.0\Desafio intermediário C#.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\Desafio intermediário C#.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\Desafio intermediário C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\Desafio intermediário C#.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\Desafio intermediário C#.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\Desafio intermediário C#.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\Desafio intermediário C#.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\ref\Desafio intermediário C#.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\Desafio intermediário C#.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Bootcamps\Pottencial\Desafio intermediário C#\obj\Debug\net6.0\Desafio intermediário C#.genruntimeconfig.cache
