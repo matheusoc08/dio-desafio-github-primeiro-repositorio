@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Material de escritório",
+    "Preco": 25.00,
+    "DataVenda": "2022-09-13T12:51:59.5307248-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Licença de Software",
+    "Preco": 110.00,
+    "DataVenda": "2022-09-13T12:51:59.5307248-03:00",
+    "Desconto": 10
+  },
+  {
+    "Id": 3,
+    "Nome_Produto": "Mousepad",
+    "Preco": 30.00,
+    "DataVenda": "2022-09-13T12:51:59.5307248-03:00",
+    "Desconto": 20
+  }
+]

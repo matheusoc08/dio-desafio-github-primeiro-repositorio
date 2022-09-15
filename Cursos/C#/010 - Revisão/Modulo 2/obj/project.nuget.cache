@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q72pWKcJcrqrB/VSb2CwCNezgpz9xFuk/xS0eEetB07eGyxa56SZKOnoQmTzt6fZK19RZW35indlu9YGBIakhQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\dio-desafio-github-primeiro-repositorio\\Cursos\\C#\\010 - Revisão\\Modulo 2\\Modulo 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

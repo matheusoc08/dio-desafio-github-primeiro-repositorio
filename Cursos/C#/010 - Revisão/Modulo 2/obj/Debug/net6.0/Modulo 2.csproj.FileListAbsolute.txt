@@ -1,0 +1,32 @@
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\bin\Debug\net6.0\Modulo 2.exe
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\bin\Debug\net6.0\Modulo 2.deps.json
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\bin\Debug\net6.0\Modulo 2.runtimeconfig.json
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\bin\Debug\net6.0\Modulo 2.dll
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\bin\Debug\net6.0\ref\Modulo 2.dll
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\bin\Debug\net6.0\Modulo 2.pdb
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\Modulo 2.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\Modulo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\Modulo 2.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\Modulo 2.AssemblyInfo.cs
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\Modulo 2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\Modulo 2.dll
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\ref\Modulo 2.dll
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\Modulo 2.pdb
+C:\Users\mathe\Desktop\New folder\Temp\csharp2\Modulo 2\obj\Debug\net6.0\Modulo 2.genruntimeconfig.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\bin\Debug\net6.0\Modulo 2.exe
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\bin\Debug\net6.0\Modulo 2.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\bin\Debug\net6.0\Modulo 2.runtimeconfig.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\bin\Debug\net6.0\Modulo 2.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\bin\Debug\net6.0\ref\Modulo 2.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\bin\Debug\net6.0\Modulo 2.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\ref\Modulo 2.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.genruntimeconfig.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 2\obj\Debug\net6.0\Modulo 2.csproj.CopyComplete
