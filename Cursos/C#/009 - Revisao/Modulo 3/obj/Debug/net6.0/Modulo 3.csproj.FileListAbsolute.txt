@@ -1,0 +1,15 @@
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\bin\Debug\net6.0\Modulo 3.exe
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\bin\Debug\net6.0\Modulo 3.deps.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\bin\Debug\net6.0\Modulo 3.runtimeconfig.json
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\bin\Debug\net6.0\Modulo 3.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\bin\Debug\net6.0\ref\Modulo 3.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\bin\Debug\net6.0\Modulo 3.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\Modulo 3.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\Modulo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\Modulo 3.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\Modulo 3.AssemblyInfo.cs
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\Modulo 3.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\Modulo 3.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\ref\Modulo 3.dll
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\Modulo 3.pdb
+C:\workspace\dio-desafio-github-primeiro-repositorio\Cursos\C#\010 - Revisão\Modulo 3\obj\Debug\net6.0\Modulo 3.genruntimeconfig.cache
