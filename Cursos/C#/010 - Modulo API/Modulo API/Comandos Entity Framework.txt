@@ -1,0 +1,12 @@
+// Instalador Entity FrameWork
+dotnet tool install --global dotnet-ef
+
+// Instalador de pacotes
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+//Criar o migração para adição de uma tabela
+dotnet-ef migrations add CriacaoTabelaContato
+
+//Atualizar o banco de dados com a tabela criada
+dotnet-ef database update
